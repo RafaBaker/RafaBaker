@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am Rafael Rodrigues 👋
+
+I am a former student of IFES-Serra (Instituto Federal do Espírito Santo) as a Computer Technician. Currently I am on the fourth period of Computer Science at UFES (Universidade Federal do Espírito Santo).
+
+Over my journey I have learned many programming languages as Python, Java, JS, C, PHP, etc. As a developer I want to improve my skills of solving problems and being able to use as many technologies as I can. This is the reason that I am going into Web3.
+
+My goals on Web3 are to expand my knowledge in a brand new area for me and that fascinantes me a lot. The idea of a descrentralized world walks side by side with how I see the world, so the Web3 for me is more than trying to "make money". 
 
 <!--
 **RafaBaker/RafaBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
